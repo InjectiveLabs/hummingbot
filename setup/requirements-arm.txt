@@ -1,7 +1,7 @@
 Cython==0.29.21
 numpy==1.19.1
 cachetools==4.1.1
-ruamel.yaml==0.16.10
+ruamel.yaml==0.16.12
 eth-account==0.5.2
 aioconsole==0.2.1
 aiokafka==0.6.0
